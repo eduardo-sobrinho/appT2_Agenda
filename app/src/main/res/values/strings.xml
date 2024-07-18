@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="Jan">Janeiro</string>
+    <string name="Fev">Fevereiro</string>
+    <string name="Mar">Março</string>
+    <string name="Abr">Abril</string>
+    <string name="Mai">Maio</string>
+    <string name="Jun">Junho</string>
+    <string name="Jul">Julho</string>
+    <string name="Ago">Agosto</string>
+    <string name="Set">Setembro</string>
+    <string name="Out">Outubro</string>
+    <string name="Nov">Novembro</string>
+    <string name="Dez">Dezembro</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="size">"Tamanho do texto"</string>
+    <string name="small">"Pequeno"</string>
+    <string name="medium">"Médio"</string>
+    <string name="large">"Grande"</string>
+    <string name="tema">"Alterar Tema"</string>
+    <string name="exclui">"Excluir Conta"</string>
+    <string name="confirma">"Sim"</string>
+    <string name="sair">"Sair"</string>
+    <string name="excluir_confirma">Você realmente tem certeza de que deseja excluir sua conta?</string>
+    <string name="incerteza_excluir">acho que não / quero voltar</string>
+    <string name="absoluta_excluir">absoluta!</string>
+    <string name="despedida">Sua conta foi excluída</string>
+</resources>

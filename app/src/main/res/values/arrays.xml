@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="meses_do_ano">
+        <item>@string/Jan</item>
+        <item>@string/Fev</item>
+        <item>@string/Mar</item>
+        <item>@string/Abr</item>
+        <item>@string/Mai</item>
+        <item>@string/Jun</item>
+        <item>@string/Jul</item>
+        <item>@string/Ago</item>
+        <item>@string/Set</item>
+        <item>@string/Out</item>
+        <item>@string/Nov</item>
+        <item>@string/Dez</item>
+    </string-array>
+</resources>
